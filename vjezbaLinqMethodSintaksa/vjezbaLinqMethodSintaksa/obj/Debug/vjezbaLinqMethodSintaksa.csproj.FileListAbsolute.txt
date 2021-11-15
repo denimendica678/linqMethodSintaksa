@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\vjezbaLinqMethodSintaksa\vjezbaLinqMethodSintaksa\bin\Debug\vjezbaLinqMethodSintaksa.exe.config
+C:\Users\denim\source\repos\vjezbaLinqMethodSintaksa\vjezbaLinqMethodSintaksa\bin\Debug\vjezbaLinqMethodSintaksa.exe
+C:\Users\denim\source\repos\vjezbaLinqMethodSintaksa\vjezbaLinqMethodSintaksa\bin\Debug\vjezbaLinqMethodSintaksa.pdb
+C:\Users\denim\source\repos\vjezbaLinqMethodSintaksa\vjezbaLinqMethodSintaksa\obj\Debug\vjezbaLinqMethodSintaksa.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\vjezbaLinqMethodSintaksa\vjezbaLinqMethodSintaksa\obj\Debug\vjezbaLinqMethodSintaksa.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\vjezbaLinqMethodSintaksa\vjezbaLinqMethodSintaksa\obj\Debug\vjezbaLinqMethodSintaksa.exe
+C:\Users\denim\source\repos\vjezbaLinqMethodSintaksa\vjezbaLinqMethodSintaksa\obj\Debug\vjezbaLinqMethodSintaksa.pdb
